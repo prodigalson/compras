@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "compras": {
+      "command": "bun",
+      "args": ["run", "src/mcp.ts"]
+    }
+  }
+}
